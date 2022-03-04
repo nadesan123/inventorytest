@@ -78,7 +78,7 @@ span {
 
     <tr>
 
-        <th>SKU tyyyeye jhhjghjghj</th>
+        <th>SKU tyyyeye jhhjghjghj Test</th>
 
         <th>Unit 2 test 123</th>
 
